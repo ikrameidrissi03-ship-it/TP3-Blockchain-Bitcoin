@@ -37,7 +37,7 @@ Ce projet repose sur une étude documentaire et un exemple pédagogique de trans
 
 \## Résultat attendu
 
-Une analyse illustrée permettant de comprendre les mécanismes essentiels d'une transaction Bitcoin. Le rapport sera ajouté à ce dépôt.
+Une analyse illustrée permettant de comprendre les mécanismes essentiels d'une transaction Bitcoin. Le rapport est disponible dans ce dépôt.
 
 
 
@@ -60,5 +60,5 @@ Ce projet m'a permis de mieux comprendre le fonctionnement des transactions Bitc
 
 \## Auteur
 
-\[IDRISSI IKRAME] - Master FinTechdans le cadre du TP3 Blockchain
+\[IDRISSI IKRAME] - Master FinTech dans le cadre du TP3 Blockchain
 
