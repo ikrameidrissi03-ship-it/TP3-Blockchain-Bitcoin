@@ -1,6 +1,7 @@
 # TP3-Blockchain-Bitcoin
 
-Projet individuel sur le fonctionnement des transactions Bitcoin  TP3 - Blockchain Bitcoin
+Projet individuel sur le fonctionnement des transactions Bitcoin  TP3 - Blockchain
+Bitcoin
 
 
 
@@ -44,6 +45,9 @@ Une analyse illustrée permettant de comprendre les mécanismes essentiels d'une
 
 GitHub, GitHub Desktop, éditeur de texte et ChatGPT (aide à la rédaction et à la structuration).
 
+## Conclusion
+
+Ce projet m'a permis de mieux comprendre le fonctionnement des transactions Bitcoin et leur validation sur la blockchain.
 
 
 \## Sources
